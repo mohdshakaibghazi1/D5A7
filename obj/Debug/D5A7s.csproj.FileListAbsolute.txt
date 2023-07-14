@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\D5A7s\D5A7s\bin\Debug\D5A7s.exe.config
+C:\Users\moham\source\repos\D5A7s\D5A7s\bin\Debug\D5A7s.exe
+C:\Users\moham\source\repos\D5A7s\D5A7s\bin\Debug\D5A7s.pdb
+C:\Users\moham\source\repos\D5A7s\D5A7s\obj\Debug\D5A7s.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\D5A7s\D5A7s\obj\Debug\D5A7s.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\D5A7s\D5A7s\obj\Debug\D5A7s.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\D5A7s\D5A7s\obj\Debug\D5A7s.exe
+C:\Users\moham\source\repos\D5A7s\D5A7s\obj\Debug\D5A7s.pdb
