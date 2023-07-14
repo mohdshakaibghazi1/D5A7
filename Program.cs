@@ -10,12 +10,15 @@ namespace D5A7s
     {
         static void Main(string[] args)
         {
-            ArrayList Fruits = new ArrayList { "Apple",
-            "banana",
-            "Cherry",
-            "date",
-            "elderberry"
-            };
+            ArrayList Fruits = new ArrayList();
+            Console.WriteLine("How many Fruits you want to enter inside the fruits list");
+            var nof=int.Parse(Console.ReadLine());
+            Console.WriteLine($"Enter {nof}  fruits inside the list");
+            for (int i = 0; i < nof; i++)
+            {
+                Fruits.Add(Console.ReadLine());
+            }
+            
             Console.WriteLine(Fruits.Count);
             Console.WriteLine("Enter fruit you want to search");
             var item = Fruits.IndexOf(Console.ReadLine());
